@@ -38,6 +38,7 @@
     ]
   },
   "devDependencies": {
-    "sass": "^1.55.0"
+    "sass": "^1.55.0",
+    "styled-components": "^5.3.6"
   }
 }
